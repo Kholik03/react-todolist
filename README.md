@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+## To Do List with React App
+
+
+ This project is a to do list with the things you need to do during the day
+
+### The project using React, JS and CSS
+
+### Image from project
+
+<img src="https://github.com/gpessoni/Todo-List-React-App/blob/main/src/imagem1.PNG" alt="Capture from project">
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
